@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
 
 
+#EXTINF:-1 tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ENTRETENIMIENTO",EcotelTv
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS
