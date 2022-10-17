@@ -5,7 +5,7 @@
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ENTRETENIMIENTO",EcotelTv|EC
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png"ENTRETENIMIENTO",Melody Channel TV|CO
+#EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png" group-title="ENTRETENIMIENTO",Melody Channel TV|CO
 https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv|EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
