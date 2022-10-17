@@ -25,6 +25,8 @@ https://envivo.telerama.ec/stream.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ENTRETENIMIENTO",TVC|EC
 https://d6op0qag07k4o.cloudfront.net:443/hls/tvc_480.m3u8
+#EXTINF:-1 tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="ENTRETENIMIENTO",TV Mar|MX
+https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
