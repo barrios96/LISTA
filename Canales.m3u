@@ -9,6 +9,8 @@ https://clubtv.link/redes.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/oct1011/key5487/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="DISTRO TV",RTS
+https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
 http://clubtv.link/oct1011/key5487/distro.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
