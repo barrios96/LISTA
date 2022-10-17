@@ -1,23 +1,25 @@
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
 
 
-#EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="ENTRETENIMIENTO",CNC Pasto
+#EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="ENTRETENIMIENTO",CNC Pasto|CO
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ENTRETENIMIENTO",EcotelTv
+#EXTINF:-1 tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ENTRETENIMIENTO",EcotelTv|EC
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv
+#EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png"ENTRETENIMIENTO",Melody Channel TV|CO
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv|EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS|EC
 https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
-#EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2022/07/rtu.png" group-title="ENTRETENIMIENTO",RTU
+#EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2022/07/rtu.png" group-title="ENTRETENIMIENTO",RTU|EC
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
-#EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/07/cropped-34-de-telepacifico-e1661347288783.png" group-title="ENTRETENIMIENTO",Telepacífico
+#EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/07/cropped-34-de-telepacifico-e1661347288783.png" group-title="ENTRETENIMIENTO",Telepacífico|CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.telerama.ec/images/logo.png" group-title="ENTRETENIMIENTO",Telerama
+#EXTINF:-1 tvg-logo="https://www.telerama.ec/images/logo.png" group-title="ENTRETENIMIENTO",Telerama|EC
 https://envivo.telerama.ec/stream.m3u8
-#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="ENTRETENIMIENTO",Top Latino
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="ENTRETENIMIENTO",Top Latino|PE
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ENTRETENIMIENTO",TVC
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ENTRETENIMIENTO",TVC|EC
 https://d6op0qag07k4o.cloudfront.net:443/hls/tvc_480.m3u8
 
 
