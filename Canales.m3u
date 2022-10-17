@@ -1,15 +1,9 @@
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",RTS
-https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-http://clubtv.link/oct1011/key5487/0smartv.php?c=712&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
-https://clubtv.link/redes.mp4
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
-http://clubtv.link/oct1011/key5487/distro.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="DISTRO TV",RTS
+#EXTINF:-1 ,group-title="ENTRETENIMIENTO",Ecuavisa
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CucEO7TTROzlA0VaXyykZi1oKA69-AY7eOcBATvM0f3CMi6PCcxdQ1B78CFvyceEykY2YpE_SLWMtd-_YXcY2UmQDSOxQsYUMJALHRxSstS6EyhcU4uDE2j8J882orPilZ8eHH9_ITXzq7EoaUdb-m8UKzL0eHvHSExmxjkSb5EXCXk-ku82_9cllGtWpPjA9XSlE7bllSNtAALvMNM3Myuj5wCI1qA-KA0ymoCFI9RO0KRLZIJNWNSLwygHe_LuM-zqwwaA6C7luABVfGCH4geMZyDeuZf-TW5qRsdonsJxuJYu2gauzyI90f_ecgVGdDX4un6lLeI4vewguqIJg0DXKoB7s4ZpkYfxbUWsZSXlI63BeGCHSeEMmXZtA9sc4TwsZp402y7kTLYdpTrF26ekAj_8EpSq0Uui5_2WpvKpTks7ovIPd6DVpVvF85d6Uj4Zqe4JaWpRRfBMCMnkkkp2yKEYdqgAg7OV0t9srr4XuNAZkOVVSIm0pJn2fgNLNezxFGuAa_1nHrJ-rjGBEVyDN5AJjfbHVHLEa-HOKRTVKpY1yTdnPd5ectO6JZisho7ubGCSce79CXEnnXCCrv3KzOltWKpRvG5aQdA64UHY2BP-Piatm6gn5X5MiZWdgPEz2oAIriXT-fNp8EZWPImEC4UJeDZYc4MGA_qpZ4GD2OeAUj4Xoz2W5EonASON_TlXzG20gRF2M3IDunemsVqAwfQf57N3AFhq-L_MngFn6qGClj5mfofR3gzgxKKqK4G2OE6m2oTE98GEP9Q3tnQ5eGKRbbVMTKeOUmb5Rjs6qLLw0KAvKhzOGgwfJNOOtLCszlI7j9UgASoJdXMtZWFzdC0xMKwD.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS
 https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
 http://clubtv.link/oct1011/key5487/distro.php?c=top-cine-latam&f=.m3u8
