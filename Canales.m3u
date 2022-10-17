@@ -3,12 +3,14 @@
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.telerama.ec/images/logo.png" group-title="ENTRETENIMIENTO",Telerama
-https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS
 https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
 #EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2022/07/rtu.png" group-title="ENTRETENIMIENTO",RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+#EXTINF:-1 tvg-logo="https://www.telerama.ec/images/logo.png" group-title="ENTRETENIMIENTO",Telerama
+https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ENTRETENIMIENTO",TVC
+https://d6op0qag07k4o.cloudfront.net:443/hls/tvc_480.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
