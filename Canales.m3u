@@ -21,6 +21,8 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv|EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2022/04/Logo-header-pat-200x100-1.png" group-title="ENTRETENIMIENTO",Pat Tv|BO
+https://master.tucableip.com/pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS|EC
 https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
 #EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2022/07/rtu.png" group-title="ENTRETENIMIENTO",RTU|EC
