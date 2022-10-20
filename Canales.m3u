@@ -21,6 +21,8 @@ https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="ENTRETENIMIENTO",Miami TV|MX
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://microvision.com.do/wp-content/uploads/2020/07/Logo-Microvision2020.png" group-title="ENTRETENIMIENTO",Microvisión|DO
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2022/03/logocomb.png" group-title="ENTRETENIMIENTO",OromarTv|EC
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2022/04/Logo-header-pat-200x100-1.png" group-title="ENTRETENIMIENTO",Pat Tv|BO
