@@ -33,6 +33,8 @@ https://master.tucableip.com/pat/playlist.m3u8
 https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
 #EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2022/07/rtu.png" group-title="ENTRETENIMIENTO",RTU|EC
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+#EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-e1658845333482.webp" group-title="ENTRETENIMIENTO",RTVD 4|DO
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/07/cropped-34-de-telepacifico-e1661347288783.png" group-title="ENTRETENIMIENTO",Telepacífico|CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="ENTRETENIMIENTO",Top Latino|PE
