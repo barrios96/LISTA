@@ -17,6 +17,8 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal7slp.tv/2022/wp-content/uploads/2021/05/logo-c7.png" group-title="ENTRETENIMIENTO",Canal 7 SLP|MX
 https://mvtvstream.com:444/live/62b7143c6eea3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="ENTRETENIMIENTO",Cubavisión Internacional|CU
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ENTRETENIMIENTO",EcotelTv|EC
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="ENTRETENIMIENTO",Miami TV|MX
