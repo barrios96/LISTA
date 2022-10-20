@@ -3,8 +3,10 @@
 
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="ENTRETENIMIENTO",ATV Perú|PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="ENTRETENIMIENTO",ATV TV|PE
+#EXTINF:-1 tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="ENTRETENIMIENTO",ATN TV|CO
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/themes/albavision-theme/img/logo.png" group-title="ENTRETENIMIENTO",Bolivisión|BO
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://ecuastereo.com/wp-content/uploads/2020/07/logo-webpage00.png" group-title="ENTRETENIMIENTO",Ecua Stereo|EC
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalcatorce.tv/img/layout/logo_verde_footer_c14.svg" group-title="ENTRETENIMIENTO",Canal Catorce|MX
