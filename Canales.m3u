@@ -1,7 +1,9 @@
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
 
 
-#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="ENTRETENIMIENTO",ATV TV|PE
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="ENTRETENIMIENTO",ATV Perú|PE
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="ENTRETENIMIENTO",ATV TV|PE
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ecuastereo.com/wp-content/uploads/2020/07/logo-webpage00.png" group-title="ENTRETENIMIENTO",Ecua Stereo|EC
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
