@@ -13,6 +13,8 @@ https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalcatorce.tv/img/layout/logo_verde_footer_c14.svg" group-title="ENTRETENIMIENTO",Canal Catorce|MX
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTcxIPklpf7yhf_-DXLOl6ueW76cYcCCJFVQ&usqp=CAU" group-title="ENTRETENIMIENTO",Canal Novelas|ES
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="ENTRETENIMIENTO",CNC Pasto|CO
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal7slp.tv/2022/wp-content/uploads/2021/05/logo-c7.png" group-title="ENTRETENIMIENTO",Canal 7 SLP|MX
