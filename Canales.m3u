@@ -29,7 +29,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2022/04/Logo-header-pat-200x100-1.png" group-title="ENTRETENIMIENTO",Pat Tv|BO
 https://master.tucableip.com/pat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cookielaw.org/logos/c046eb22-33d5-43cd-9e7b-28a54872fef2/420d22d9-3d74-4914-9f3d-29bfe7571867/acce18c5-183c-45e9-a9f7-e6ed0f2f776b/header_logo.jpg" group-title="ENTRETENIMIENTO",Real Madrid|ES
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg" group-title="ENTRETENIMIENTO",Real Madrid|ES
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" group-title="ENTRETENIMIENTO",RTS|EC
 https://d6op0qag07k4o.cloudfront.net:443/hls/rts_480.m3u8
