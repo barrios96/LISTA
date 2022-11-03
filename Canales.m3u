@@ -51,3 +51,5 @@ https://tracelatina-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc3
 https://d6op0qag07k4o.cloudfront.net:443/hls/tvc_480.m3u8
 #EXTINF:-1 tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="ENTRETENIMIENTO",TV Mar|MX
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",Univisión Arizona|MX
+https://v-px.mybtv.net/live/28.m3u8
